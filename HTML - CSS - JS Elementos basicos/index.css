@@ -1,0 +1,15 @@
+/*ELEMENTS TO CONTROL*/
+
+/*BY TAG*/
+body{
+    background: dodgerblue;
+}
+/*BY CLASS*/
+.text{
+    color: red;
+}
+/*BY ID*/
+#title{
+    color: aquamarine;
+}
+
