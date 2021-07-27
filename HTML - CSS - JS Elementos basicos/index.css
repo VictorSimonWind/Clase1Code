@@ -2,11 +2,14 @@
 
 /*BY TAG*/
 body{
+    text-align: center;
     background: dodgerblue;
 }
 /*BY CLASS*/
-.text{
+.parrafo{
     color: red;
+    font-size: 25px;
+    
 }
 /*BY ID*/
 #title{
